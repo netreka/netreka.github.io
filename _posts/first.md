@@ -1,4 +1,6 @@
-## Blog Post Title From First Header
+## first post
+
+first post
 
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
@@ -10,7 +12,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
-#### Some T-SQL Code
+### Some T-SQL Code
 
 ```tsql
 SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
